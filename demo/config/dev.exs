@@ -2,8 +2,8 @@ import Config
 
 # Configure your database
 config :demo, Demo.Repo,
-  username: "postgres",
-  password: "postgres",
+  username: "shaynalekohmaher",
+  password: "shaynalekohmaher",
   hostname: "localhost",
   database: "demo_dev",
   stacktrace: true,
