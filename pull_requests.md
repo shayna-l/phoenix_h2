@@ -2,3 +2,4 @@
 - Shayna Lekohmaher
 - Jack Wu
 - Natalia Sarosiek
+- Sherry Guo
