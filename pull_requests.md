@@ -1,3 +1,3 @@
-## Pull requests
-
+- Bruce Tate
+- Jack Wu
 - Natalia Sarosiek
