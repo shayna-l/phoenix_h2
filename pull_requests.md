@@ -1,3 +1,4 @@
 - Bruce Tate
+- Shayna Lekohmaher
 - Jack Wu
 - Natalia Sarosiek
